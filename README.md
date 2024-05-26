@@ -46,9 +46,9 @@ The project generates several key visualizations to help understand the data:
 
 - **Optimal Advertising Times**: The highest sales were recorded at 19:00 and 12:00, indicating peak times for customer engagement.
 
--**Popular Product Bundles**: Customers frequently purchased smartphones with charging cables, reflecting a common need for accessories.
+- **Popular Product Bundles**: Customers frequently purchased smartphones with charging cables, reflecting a common need for accessories.
 
--**Top Selling Products**: Lower-priced items like batteries were sold in high quantities, while high-priced items like MacBook Pro and iPhone also had substantial sales.
+- **Top Selling Products**: Lower-priced items like batteries were sold in high quantities, while high-priced items like MacBook Pro and iPhone also had substantial sales.
 
 ## Contributions
 
