@@ -38,19 +38,18 @@ The project generates several key visualizations to help understand the data:
 - **Quantity Ordered vs. Price Each**: A combination plot showing the quantity ordered and average price for each product.
 
 
-Example Insights
+## Example Insights
 
-Best Month for Sales: December 2019 had the highest sales, with a total of $4.59M, likely due to holiday shopping.
+- **Best Month for Sales**: December 2019 had the highest sales, with a total of $4.59M, likely due to holiday shopping.
 
-Top Cities for Sales: San Francisco, CA, leads in sales revenue, followed by Los Angeles, CA, and New York City, NY.
+- **Top Cities for Sales**: San Francisco, CA, leads in sales revenue, followed by Los Angeles, CA, and New York City, NY.
 
-Optimal Advertising Times: The highest sales were recorded at 19:00 and 12:00, indicating peak times for customer engagement.
+- **Optimal Advertising Times**: The highest sales were recorded at 19:00 and 12:00, indicating peak times for customer engagement.
 
-Popular Product Bundles: Customers frequently purchased smartphones with charging cables, reflecting a common need for accessories.
+-**Popular Product Bundles**: Customers frequently purchased smartphones with charging cables, reflecting a common need for accessories.
 
-Top Selling Products: Lower-priced items like batteries were sold in high quantities, while high-priced items like MacBook Pro and iPhone also had substantial sales.
+-**Top Selling Products**: Lower-priced items like batteries were sold in high quantities, while high-priced items like MacBook Pro and iPhone also had substantial sales.
 
-
-- **Contributions**
+## Contributions
 
 Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
